@@ -1,0 +1,162 @@
+/* Cat */
+
+position: absolute;
+width: 15.68px;
+height: 13.12px;
+left: 40px;
+top: 43px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 6px;
+height: 6.24px;
+left: calc(50% - 6px/2 - 459.85px);
+top: 43px;
+
+background: linear-gradient(90deg, #4F4C5F 16228%, #77718A 27766%);
+
+
+/* Vector */
+
+position: absolute;
+width: 4.07px;
+height: 5.29px;
+left: calc(50% - 4.07px/2 - 458.35px);
+top: 43.98px;
+
+background: linear-gradient(90deg, #FD869C 0.02%, #FDB0BF 100%);
+
+
+/* Vector */
+
+position: absolute;
+width: 6px;
+height: 6.24px;
+left: calc(50% - 6px/2 - 468.46px);
+top: 43px;
+
+background: linear-gradient(90deg, #77718A -343%, #4F4C5F 11195%);
+
+
+/* Vector */
+
+position: absolute;
+width: 4.07px;
+height: 5.29px;
+left: calc(50% - 4.07px/2 - 469.96px);
+top: 43.98px;
+
+background: linear-gradient(90deg, #FDB0BF -0.01%, #FD869C 100%);
+
+
+/* Vector */
+
+position: absolute;
+width: 2.46px;
+height: 3.58px;
+left: calc(50% - 2.46px/2 - 470.58px);
+top: 45.39px;
+
+background: #FD748D;
+
+
+/* Vector */
+
+position: absolute;
+width: 14.21px;
+height: 7.63px;
+left: calc(50% - 14.21px/2 - 464.16px);
+top: 44.02px;
+
+background: linear-gradient(0deg, #FDB58A 0%, #3C2313 100.76%);
+
+
+/* Vector */
+
+position: absolute;
+width: 14.09px;
+height: 9.91px;
+left: calc(50% - 14.09px/2 - 464.16px);
+top: 46.22px;
+
+background: linear-gradient(0deg, #FFF5E3 0%, #F0A83E 100.01%);
+
+
+/* Vector */
+
+position: absolute;
+width: 1.55px;
+height: 1.2px;
+left: calc(50% - 1.55px/2 - 468.72px);
+top: 49.7px;
+
+background: #FFAECF;
+
+
+/* Vector */
+
+position: absolute;
+width: 1.55px;
+height: 1.2px;
+left: calc(50% - 1.55px/2 - 459.6px);
+top: 49.7px;
+
+background: #FFAECF;
+
+
+/* Vector */
+
+position: absolute;
+width: 3.07px;
+height: 2.95px;
+left: calc(50% - 3.07px/2 - 467.39px);
+top: 47.35px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 3.07px;
+height: 2.95px;
+left: calc(50% - 3.07px/2 - 460.93px);
+top: 47.35px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 1.83px;
+height: 1.76px;
+left: calc(50% - 1.83px/2 - 467.39px);
+top: 47.94px;
+
+background: #383842;
+
+
+/* Vector */
+
+position: absolute;
+width: 1.83px;
+height: 1.76px;
+left: calc(50% - 1.83px/2 - 460.93px);
+top: 47.94px;
+
+background: #383842;
+
+
+/* Vector */
+
+position: absolute;
+width: 2.55px;
+height: 0.73px;
+left: calc(50% - 2.55px/2 - 464.16px);
+top: 50.04px;
+
+background: #383842;
