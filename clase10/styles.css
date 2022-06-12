@@ -1,0 +1,190 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+body{
+    display: block;
+}
+main{
+    background-color: white;
+    height: auto;
+    display: block;
+}
+
+h1{
+    background: rgba(28, 209, 176, 1);
+    /* size: 15px; */
+    /* font-style: normal; */
+    font-weight: 400;
+    font-size: 15px;
+    /* line-height: 18px;
+    line-height: 18px; */
+    color: #000000;
+    height: 38px;
+    padding: 10px;
+    left: 10px;
+ }
+
+ h2{
+    /* position: absolute; */
+    /* width: 1024px;
+    height: 101px;
+    left: 0px;
+    top: 38px; */
+    background: #00669F;
+    box-shadow: 0px 10px 7px;
+    height: 92px;
+    padding: 26px;
+    left: 28px;
+ }
+h4{
+    /* display: block; */
+    text-align: center;
+    font-weight: bold;  
+    margin-top: 50px;
+}
+ .contenedor-de-seccion{
+/* width: 800px; */
+/* height: 800px; */
+/* display: inline-block; */
+/* background-color: aqua; */
+/* font-family: Roboto; */
+font-size: 15px;
+font-weight: 400;
+display: inline-block;
+display: flex;
+margin-top: 150px;
+margin-right: 50px;
+/* flex-direction: row; */
+flex-wrap: nowrap;
+justify-content: space-between;
+margin-bottom: 118px;    
+padding: 20px;
+/* line-height: 18px; */
+/* text-align: left; */
+
+}
+
+.contenedor-articulo1{
+width: 244px;
+height: 500px;
+display: inline-block;
+/* position: relative; */
+/* background-repeat: no-repeat; */
+background-color:  #F3F3F3;
+margin: 0px;
+box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+left: 32px;
+border-top-left-radius: 9%;
+border-top-right-radius: 9%;
+/* padding: 10px; */
+}  
+.contenedor-articulo2{
+    width: 200px;
+    height: 200px;
+    background-color: #F3F3F3;
+    display: inline-block;
+    color: black
+} 
+
+.heroes-description {
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: justify;
+    width: 200px;
+}
+
+p {
+    /* display: block; */
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    position: absolute;
+    margin-top: 100px;
+    /* margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+}
+.casa-batman{
+    background-image: url(/Images/bat_cave.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 192px;
+    border-top-left-radius: 9%;
+    border-top-right-radius: 9%;
+    position: relative;
+    
+}
+.casa-harley{
+    background-image: url(/Images/harley_colors.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 192px;
+    border-top-left-radius: 9%;
+    border-top-right-radius: 9%;
+    position: relative;
+}
+
+.foto-heroe{
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    margin-top: 120px;
+    margin-left: 65px;
+    /* display: block; */
+}
+
+.batman {
+    background-image: url("/Images/batman.png");
+}
+
+.harley{
+    background-image: url("/Images/harley_quinn.png");  
+}
+
+footer{
+    background: #00669F;
+    box-shadow: 0px 4px 4px;
+    font-weight: 50px;
+    font-size: 16px;
+    line-height: 48px;
+    color: #FFF9F9;
+    font-style: normal;
+}
+
+.logo-i-love{
+    position: relative;
+    top: 10px;
+    left: 10px;  
+
+}
+
+.button {
+    width: 140px;
+    height: 50px;
+    text-align: center;
+    position: relative;
+    right: 80px;
+    background: #00669F;
+    /* bottom: 30px; */
+    color: white;
+    left: 50px;
+    margin-top: 170px;
+    display: block;
+    padding: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+
+
+
+
+    
+   
+  
+}
